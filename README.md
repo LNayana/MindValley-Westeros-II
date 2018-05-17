@@ -1,7 +1,5 @@
 # MindValley-Westeros-II
-<b>Task:-</b> To create a new web application as a part of MindValley assessment using HTML, CSS and React.Js.
-
-This repository contains the Westeros web application developed as a part of Mind Valley assessment using <b>Bootstrap</b>.
+<b>Task:-</b> To design a Westeros web application as a part of Mind Valley assessment using <b>Bootstrap</b>.
 
 <b>Setps to open the web page on browser?</b>
 1. Clone the current repository at any specific location on your computer.
